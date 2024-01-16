@@ -11,11 +11,6 @@
 🌟 Main languages: Javascript, Python, html & CSS
 💀 No Soporto a los Niñatos
 </pre>
-
-<p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
-</p>
-
 ---
 
 <!--
