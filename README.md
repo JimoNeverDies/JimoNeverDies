@@ -1,6 +1,5 @@
-<div align="center">
-  <h3><b>!"Jimo</b></h3>  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <h3><b>On Top</b></h3>
-</div>
+
+#!"Jimo ON TOP  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px align="center">
 
 <a target="_blank" href="https://tenor.com/es/view/dark-anmie-girl-gif-22943234"><img src="https://github.com/jimotimo/jimotimo/blob/main/273557d1ec68010e8f0dbaf2311b357c.png"/></a>
 
@@ -14,15 +13,7 @@
 🌟 Main languages: Javascript, Python, html & CSS
 💀 No Soporto a los Niñatos
 </pre>
-<div align="center">
-  <h3><b>!"Jimo</b></h3>  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-</div>
 
-
-
-<div align="center">
-  <h3><b>On Top</b></h3>
-  </div>
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
