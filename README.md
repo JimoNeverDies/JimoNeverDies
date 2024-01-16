@@ -1,5 +1,5 @@
 
-<a target="_blank" href="https://tenor.com/es/view/dark-anmie-girl-gif-22943234"><img src="https://github.com/jimotimo/jimotimo/blob/main/273557d1ec68010e8f0dbaf2311b357c.png"/></a>
+<a target="_blank" href="https://discord.gg/lowcost"><img src="https://github.com/jimotimo/jimotimo/blob/main/273557d1ec68010e8f0dbaf2311b357c.png"/></a>
 
 <p align="center">
 	<a href="https://readme-typing-svg.herokuapp.com/?lines=!%22Jimo+|%20ukknnoooww;HTML%20|%20CSS%20|%20PYTHON%20|%20JS%20;&center=true&width=380&height=45">
