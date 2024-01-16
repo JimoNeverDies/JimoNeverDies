@@ -1,6 +1,6 @@
-</h1> align="center"> !"Jimo 💀</h1>
+</h1 align="center"> !"Jimo 💀</h1>
 
-<a target="_blank" href="https://tenor.com/es/view/dark-anmie-girl-gif-22943234"><img src="https://tenor.com/es/view/dark-anmie-girl-gif-22943234"/></a>
+<a target="_blank" href="https://tenor.com/es/view/dark-anmie-girl-gif-22943234"><img src="https://github.com/jimotimo/jimotimo/blob/main/descarga%20(4).jpeg"/></a>
 
 <p align="center">
 	<a href="https://readme-typing-svg.herokuapp.com/?lines=!%22Jimo+|%20ukknnoooww;HTML%20|%20CSS%20|%20PYTHON%20|%20JS%20;&center=true&width=380&height=45">
