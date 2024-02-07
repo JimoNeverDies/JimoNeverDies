@@ -9,7 +9,6 @@
 <pre>
 💻 Programador desde 2019
 🌟 Main languages: Javascript, Python, html & CSS
-💀 No Soporto a los Niñatos
 </pre>
 
 ---
