@@ -6,10 +6,6 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=!%22Jimo+|%20ukknnoooww;HTML%20|%20CSS%20|%20PYTHON%20|%20JS%20;&center=true&width=380&height=45">
 	</a>
 </p>
-<pre>
-💻 Programador desde 2019
-</pre>
-
 ---
 
 <!--
