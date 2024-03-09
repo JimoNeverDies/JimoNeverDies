@@ -1,7 +1,7 @@
 
 <p align="center">
     <a target="_blank" href="https://discord.gg/nationsquad">
-        <img src="https://i.postimg.cc/mkNV926v/2e4e9982c7193de6b65869198fcbc9ba.gif" width="800px" />
+        <img src="https://i.postimg.cc/mkNV926v/2e4e9982c7193de6b65869198fcbc9ba.gif" width="600px" />
     </a>
 </p>
 
@@ -10,7 +10,6 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=!%22Jimo+|%20ukknnoooww;HTML%20|%20CSS%20|%20PYTHON%20|%20JS%20;&center=true&width=380&height=45">
 	</a>
 </p>
----
 
 <!--
 **jimotimo/jimotimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
