@@ -8,7 +8,6 @@
 </p>
 <pre>
 💻 Programador desde 2019
-🌟 Main languages: Javascript, Python, html & CSS
 </pre>
 
 ---
