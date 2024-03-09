@@ -1,5 +1,9 @@
 
-<a [![Texto alternativo](https://i.postimg.cc/mkNV926v/2e4e9982c7193de6b65869198fcbc9ba.gif)](https://discord.gg/nationsquad){width=200px}></a>
+<p align="center">
+    <a target="_blank" href="https://discord.gg/nationsquad">
+        <img src="https://i.postimg.cc/mkNV926v/2e4e9982c7193de6b65869198fcbc9ba.gif" width="200px" />
+    </a>
+</p>
 
 <p align="center">
 	<a href="https://readme-typing-svg.herokuapp.com/?lines=!%22Jimo+|%20ukknnoooww;HTML%20|%20CSS%20|%20PYTHON%20|%20JS%20;&center=true&width=380&height=45">
