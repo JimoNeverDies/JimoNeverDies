@@ -1,7 +1,7 @@
 
 <p align="center">
     <a target="_blank" href="https://discord.gg/nationsquad">
-        <img src="https://i.postimg.cc/mkNV926v/2e4e9982c7193de6b65869198fcbc9ba.gif" width="200px" />
+        <img src="https://i.postimg.cc/mkNV926v/2e4e9982c7193de6b65869198fcbc9ba.gif" width="800px" />
     </a>
 </p>
 
